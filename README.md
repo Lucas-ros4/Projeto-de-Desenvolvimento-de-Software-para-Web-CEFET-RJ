@@ -23,4 +23,5 @@ Nome do Software Web: GreedStore
 - escrever comentario - Usuario
 - apagar comentario - Adm
 - apagar deck - adm
+- Editar perfil do usuario - adm
 - 
