@@ -20,4 +20,7 @@ Nome do Software Web: GreedStore
 - Fazer análise de mercado com IA - Usuário (Premium)
 - Definir alarme de preço para carta específica - Usuário
 - Esquecer Senhar - Usuário
-
+- escrever comentario - Usuario
+- apagar comentario - Adm
+- apagar deck - adm
+- 
